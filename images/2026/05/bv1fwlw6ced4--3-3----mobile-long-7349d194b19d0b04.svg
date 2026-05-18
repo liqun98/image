@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="3070" viewBox="0 0 860 3070">
+  <rect width="860" height="3070" fill="#F5EADB"/>
+  <rect x="70" y="36" width="720" height="2998" rx="0" fill="#FFF8ED" opacity="0.76"/>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; fill: #302117; }
+    .meta { fill: #705948; font-size: 17px; font-weight: 600; }
+    .h1 { font-size: 38px; font-weight: 800; }
+    .h2 { fill: #81422D; font-size: 26px; font-weight: 800; }
+    .h3 { fill: #B85F3F; font-size: 18px; font-weight: 800; }
+    .p { font-size: 17px; }
+    .small { fill: #705948; font-size: 15px; }
+  </style>
+
+  <text x="86" y="76" class="h1">小亏3.3万，进入防守阶段</text>
+  <text x="86" y="128" class="meta">UP：笨笨的韭菜 · 时长：11:29 · 发布时间：2026-05-18 · BV：BV1fwLw6CED4</text>
+
+  <text x="86" y="194" class="h2">视频主题</text>
+  <text x="86" y="236" class="p">这期视频复盘当日账户小幅亏损后的仓位处理：主播认为市场缩量、冲高回落和板块轮动都提示短线</text>
+  <text x="86" y="264" class="p">不宜激进追买，因此进入观察和防守阶段。</text>
+  <text x="106" y="311" class="p">• 账户当日亏约 3.3 万，约 -0.16%，在月内收益背景下仍可接受。</text>
+  <text x="106" y="342" class="p">• 市场全天缩量并冲高回落，是偏弱信号，但还不能确认下跌趋势。</text>
+  <text x="106" y="373" class="p">• 科创相对强，存储链和 SpaceX 概念提供叙事，高位科技股仍有回落压力。</text>
+  <text x="106" y="404" class="p">• 仓位上强调防守：此前减仓，并用少量仓位对冲科技仓位波动。</text>
+
+  <text x="86" y="476" class="h2">时间轴分段总结</text>
+
+  <rect x="86" y="514" width="688" height="334" rx="8" fill="#FBF0E1" stroke="#DCC8B4"/>
+  <text x="106" y="552" class="h3">00:00 - 00:53 账户小亏与当日市场状态</text>
+  <text x="106" y="590" class="p">主播开场说明当天账户小亏 3.3 万，约 -0.16%。他提到自己曾提出部分资金去买国债，受银行卡</text>
+  <text x="106" y="618" class="p">限额影响账户规模显示有所变化；即便如此，当日跌幅在他看来仍属可接受范围。</text>
+  <text x="126" y="667" class="small">• 月内收益仍约 200 万，排名和收益率优势还在，但主播认为优势“快保不住了”。</text>
+  <text x="126" y="697" class="small">• 当天行情从平开、快速冲高，最终转为震荡下行，港股尾盘有所收回。</text>
+
+  <rect x="86" y="882" width="688" height="362" rx="8" fill="#FBF0E1" stroke="#DCC8B4"/>
+  <text x="106" y="920" class="h3">00:53 - 02:36 缩量、科创冲高回落与防守对冲</text>
+  <text x="106" y="958" class="p">主播观察到市场成交量持续萎缩，并跌到 3 万亿以下。他强调单日缩量不能直接定义趋势，因为</text>
+  <text x="106" y="986" class="p">后续若重新放量，市场仍可能继续上攻。</text>
+  <text x="126" y="1035" class="small">• 科创早盘快速拉升后回落，主播认为这种走势容易显得像派发筹码。</text>
+  <text x="126" y="1065" class="small">• 由于仍有 700 多万偏科技类仓位，他买入几十万防守类/对冲仓位。</text>
+  <text x="126" y="1095" class="small">• 地缘事件被当成风险变量处理，操作目的主要是降低科技仓位波动。</text>
+
+  <rect x="86" y="1278" width="688" height="432" rx="8" fill="#FBF0E1" stroke="#DCC8B4"/>
+  <text x="106" y="1316" class="h3">02:36 - 05:07 后续行情路径与科创主线</text>
+  <text x="106" y="1354" class="p">主播回顾如果周五没有大规模减仓，当天亏损可能会更明显。他随后讨论后续走势：如果市场快速</text>
+  <text x="106" y="1382" class="p">下跌并加速，反而可能更接近回补仓位的买点；但当天这种冲高回落、缩量缓跌的形态，不构成</text>
+  <text x="106" y="1410" class="p">他愿意出手的买点。</text>
+  <text x="126" y="1459" class="small">• 上证短线难把握，波动较小，主播更关注科创方向。</text>
+  <text x="126" y="1489" class="small">• 科创相对强势主要由两条叙事推动：长鑫相关存储链，以及 SpaceX 上市预期。</text>
+  <text x="126" y="1519" class="small">• 他提醒概念股行情有涨跌分化，短期前段时间暴涨的持仓在当天表现偏弱。</text>
+
+  <rect x="86" y="1744" width="688" height="390" rx="8" fill="#FBF0E1" stroke="#DCC8B4"/>
+  <text x="106" y="1782" class="h3">05:07 - 08:29 消费、白酒和机器人板块</text>
+  <text x="106" y="1820" class="p">主播提到当天国内经济数据不及预期，消费股表现较难。以贵州茅台为例，他认为此前反弹后又</text>
+  <text x="106" y="1848" class="p">创出新低，长期持有或继续抄底都应由交易者自己承担结果。</text>
+  <text x="126" y="1897" class="small">• 他没有直接劝阻他人交易，而是强调每个人必须对自己的账户负责。</text>
+  <text x="126" y="1927" class="small">• 机器人方向受海外演示、物理 AI 叙事带动，短期仍有热度。</text>
+  <text x="126" y="1957" class="small">• 但主播认为机器人短线仍偏概念，常出现在一波行情的后半段，需要注意追高风险。</text>
+
+  <rect x="86" y="2168" width="688" height="390" rx="8" fill="#FBF0E1" stroke="#DCC8B4"/>
+  <text x="106" y="2206" class="h3">08:29 - 11:29 回应误读与交易纪律</text>
+  <text x="106" y="2244" class="p">结尾部分主播主要回应部分观众对其观点和仓位的误读。他强调自己没有说牛市结束，也没有清仓</text>
+  <text x="106" y="2272" class="p">某些持仓，要求观众阅读动态和交易信息时更严谨。</text>
+  <text x="126" y="2321" class="small">• 看错文字、点错买卖、仓位输入错误，都可能在波动行情中造成无法补救的损失。</text>
+  <text x="126" y="2351" class="small">• 对于后市，他的结论是继续观察两天；当天只能说明市场偏弱。</text>
+  <text x="126" y="2381" class="small">• 他不把小幅少亏或卖对一部分，直接等同于趋势判断已经被验证。</text>
+
+  <text x="86" y="2630" class="h2">相关股票</text>
+  <text x="106" y="2672" class="h3">贵州茅台 600519</text>
+  <text x="106" y="2704" class="p">收盘价：CNY 1323.00；涨跌：-31.55 / -2.33%；所属板块：白酒。</text>
+  <text x="106" y="2732" class="p">视频观点：作为消费/白酒下行压力例子，主播对继续抄底保持谨慎。</text>
+  <text x="106" y="2784" class="h3">斯特威 688213</text>
+  <text x="106" y="2816" class="p">收盘价：未获取；涨跌：未获取；所属板块：CMOS 图像传感器 / 半导体。</text>
+  <text x="106" y="2844" class="p">视频观点：主播澄清没有清仓该方向，主要用于说明仓位信息应准确阅读。</text>
+  <text x="106" y="2896" class="h3">信维通信 300136</text>
+  <text x="106" y="2928" class="p">收盘价：未获取；涨跌：未获取；所属板块：消费电子 / 通信零部件。</text>
+  <text x="106" y="2956" class="p">视频观点：来自弹幕提及，视频主体没有展开分析。</text>
+  <text x="86" y="3020" class="small">以上为视频中涉及的股票线索，只用于理解视频内容，不构成投资建议。</text>
+</svg>
